@@ -36,7 +36,8 @@
 
 ## Overview
 
-![Not-found](https://github.com/marcosguz/404-no-found/assets/75583218/c496ecac-c463-459c-bbcd-a5814fc0daf2)
+![Not-found](https://github.com/marcosguz/404-no-found/assets/75583218/910b374c-8a7c-4f83-96bb-538aa1a8dd3c)
+
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
